@@ -1,8 +1,8 @@
-#Text-Converter
+# Text-Converter
 You can use this tool to translate your texts and convert your texts to audio.
 
 This tool has been tested on Android by termux and on Windows.
-###Installation.
+### Installation.
 You need python3 and pip.
 
 You can get help from this [link](https://www.python.org/downloads/) to install Python and install Git from this [link](https://git-scm.com/downloads) on Windows.
