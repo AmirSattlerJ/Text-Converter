@@ -44,7 +44,7 @@
 
 [https://github.com/AmirSattlerJ]
 
-┌Choos Your Platform:
+┌Choose Your Platform:
 ├─[1]Android
 ├┴[2]PC
 └Enter Number:
