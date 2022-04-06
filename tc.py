@@ -2,7 +2,7 @@ import platform
 from os import system
 from text_converter import text_converter
 from colorama import ( 
-    init
+    init,
     Fore, 
     Style, 
 )
