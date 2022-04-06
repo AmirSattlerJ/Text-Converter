@@ -10,7 +10,7 @@ class text_converter:
         self.tt = gt('auto', self.target_language).translate(self.text)
         try:
             print('Was Translated ! ! !')
-            with open(self.output_file, 'w') as t: 
+            with open(self.output_file, 'w', encoding='utf-8') as t: 
                 t.write(self.tt)
         except Exception as e:
             print(e)
