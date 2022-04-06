@@ -2,9 +2,11 @@ import platform
 from os import system
 from text_converter import text_converter
 from colorama import ( 
+    init
     Fore, 
     Style, 
 )
+init()
 with open('banner1.txt') as banner: 
     x = banner.read()
 plat_form = input(f'{Fore.GREEN}{x}{Style.RESET_ALL}')
